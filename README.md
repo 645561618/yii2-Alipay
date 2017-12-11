@@ -1,10 +1,10 @@
 # yii2-Alipay
   
-  1.首先将AliPay放到公共的文件夹中，我这里是放到common/extensions/文件中
+### 1.首先将AliPay放到公共的文件夹中，我这里是放到common/extensions/文件中
 
-  2.在AluipayPay.php文件中填写自己的配置信息
+### 2.在AluipayPay.php文件中填写自己的配置信息
 
-  3.创建一个AlipayController
+### 3.创建一个AlipayController
   <?php
       namespace frontend\controllers;
 
