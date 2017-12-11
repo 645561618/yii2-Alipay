@@ -8,17 +8,17 @@ class AlipayPay {
     /**
      * @var String 合作身份者id，以2088开头的16位纯数字
      */
-    public $partner = '2088501495024075';
+    public $partner = '************';
 
     /**
      * @var String 收款支付宝账号
      */
-    public $seller_email = 'zhinang360@163.com';
+    public $seller_email = '*************';
 
     /**
      * @var String 安全检验码，以数字和字母组成的32位字符
      */
-    public $key = 'nkiolxzc3ryod39lp4ivdq66xc09rju7';
+    public $key = '*****************';
 
     //↑↑↑↑↑↑↑↑↑↑请在这里配置您的基本信息↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
 
